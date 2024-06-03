@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp_xeploai", "CSharp_xeploai.csproj", "{180BFD11-0B56-4B67-80AB-C25AD2C7A3EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180BFD11-0B56-4B67-80AB-C25AD2C7A3EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180BFD11-0B56-4B67-80AB-C25AD2C7A3EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180BFD11-0B56-4B67-80AB-C25AD2C7A3EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180BFD11-0B56-4B67-80AB-C25AD2C7A3EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42D72F1D-42FC-4BBB-9EA1-6DD2C19EF0BA}
+	EndGlobalSection
+EndGlobal
